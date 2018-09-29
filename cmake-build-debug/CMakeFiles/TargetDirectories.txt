@@ -1,3 +1,3 @@
-/cygdrive/c/Users/KenBi/CLionProjects/20-9bai1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/cygdrive/c/Users/KenBi/CLionProjects/20-9bai1/cmake-build-debug/CMakeFiles/20_9bai1.dir
-/cygdrive/c/Users/KenBi/CLionProjects/20-9bai1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/c/Users/KenBi/CLionProjects/baithi/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/Users/KenBi/CLionProjects/baithi/cmake-build-debug/CMakeFiles/baithi.dir
+/cygdrive/c/Users/KenBi/CLionProjects/baithi/cmake-build-debug/CMakeFiles/edit_cache.dir

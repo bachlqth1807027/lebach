@@ -59,45 +59,45 @@ RM = /cygdrive/c/Users/KenBi/.CLion2018.2/system/cygwin_cmake/bin/cmake.exe -E r
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /cygdrive/c/Users/KenBi/CLionProjects/20-9bai1
+CMAKE_SOURCE_DIR = /cygdrive/c/Users/KenBi/CLionProjects/baithi
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /cygdrive/c/Users/KenBi/CLionProjects/20-9bai1/cmake-build-debug
+CMAKE_BINARY_DIR = /cygdrive/c/Users/KenBi/CLionProjects/baithi/cmake-build-debug
 
 #=============================================================================
-# Target rules for target CMakeFiles/20_9bai1.dir
+# Target rules for target CMakeFiles/baithi.dir
 
 # All Build rule for target.
-CMakeFiles/20_9bai1.dir/all:
-	$(MAKE) -f CMakeFiles/20_9bai1.dir/build.make CMakeFiles/20_9bai1.dir/depend
-	$(MAKE) -f CMakeFiles/20_9bai1.dir/build.make CMakeFiles/20_9bai1.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/cygdrive/c/Users/KenBi/CLionProjects/20-9bai1/cmake-build-debug/CMakeFiles --progress-num=1,2 "Built target 20_9bai1"
-.PHONY : CMakeFiles/20_9bai1.dir/all
+CMakeFiles/baithi.dir/all:
+	$(MAKE) -f CMakeFiles/baithi.dir/build.make CMakeFiles/baithi.dir/depend
+	$(MAKE) -f CMakeFiles/baithi.dir/build.make CMakeFiles/baithi.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/cygdrive/c/Users/KenBi/CLionProjects/baithi/cmake-build-debug/CMakeFiles --progress-num=1,2 "Built target baithi"
+.PHONY : CMakeFiles/baithi.dir/all
 
 # Include target in all.
-all: CMakeFiles/20_9bai1.dir/all
+all: CMakeFiles/baithi.dir/all
 
 .PHONY : all
 
 # Build rule for subdir invocation for target.
-CMakeFiles/20_9bai1.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /cygdrive/c/Users/KenBi/CLionProjects/20-9bai1/cmake-build-debug/CMakeFiles 2
-	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/20_9bai1.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /cygdrive/c/Users/KenBi/CLionProjects/20-9bai1/cmake-build-debug/CMakeFiles 0
-.PHONY : CMakeFiles/20_9bai1.dir/rule
+CMakeFiles/baithi.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /cygdrive/c/Users/KenBi/CLionProjects/baithi/cmake-build-debug/CMakeFiles 2
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/baithi.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /cygdrive/c/Users/KenBi/CLionProjects/baithi/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/baithi.dir/rule
 
 # Convenience name for target.
-20_9bai1: CMakeFiles/20_9bai1.dir/rule
+baithi: CMakeFiles/baithi.dir/rule
 
-.PHONY : 20_9bai1
-
-# clean rule for target.
-CMakeFiles/20_9bai1.dir/clean:
-	$(MAKE) -f CMakeFiles/20_9bai1.dir/build.make CMakeFiles/20_9bai1.dir/clean
-.PHONY : CMakeFiles/20_9bai1.dir/clean
+.PHONY : baithi
 
 # clean rule for target.
-clean: CMakeFiles/20_9bai1.dir/clean
+CMakeFiles/baithi.dir/clean:
+	$(MAKE) -f CMakeFiles/baithi.dir/build.make CMakeFiles/baithi.dir/clean
+.PHONY : CMakeFiles/baithi.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/baithi.dir/clean
 
 .PHONY : clean
 

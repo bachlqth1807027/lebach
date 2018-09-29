@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/baithi.dir/main.c.o  -o baithi.exe -Wl,--out-implib,libbaithi.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
